@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(0deg, rgb(225, 241, 73) 0%, rgb(61, 152, 236) 100%);
+    background-size: 100% 250%;
+    margin: 0;
+}
+
+#jumbotron {
+    text-align: center;
+    margin-top: 0px;
+}
+
+#jumbotrontop {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#jumbotronbox {
+    text-align: center;
+    padding: 5px;
+}
